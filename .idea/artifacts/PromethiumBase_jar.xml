@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PromethiumBase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PromethiumBase_jar</output-path>
+    <root id="archive" name="PromethiumBase.jar">
+      <element id="module-output" name="PromethiumBase" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Spigot-Builds/Spigot/Spigot-API/target/spigot-api-1.19.4-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/plugin.yml" />
+    </root>
+  </artifact>
+</component>

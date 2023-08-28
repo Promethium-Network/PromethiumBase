@@ -1,0 +1,22 @@
+name: PromethiumBase
+version: 1.2.0
+author: Shradinx
+main: me.shradinx.promethiumbase.Main
+api-version: '1.19'
+commands:
+  givedirt:
+    description: gib dirt :)
+    usage: /givedirt
+    permission: promethiumbase.givedirt
+  factions:
+    description: Factions command
+    usage: /factions
+    permission: promethiumbase.factions
+  fac:
+    description: Factions command
+    usage: /fac
+    permission: promethiumbase.factions.fac
+  f:
+    description: Factions command
+    usage: /f
+    permission: promethiumbase.factions.f
